@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilksAndCookies", "MilksAndCookies\MilksAndCookies.csproj", "{EADE29BB-E222-4935-90A4-A4C6840F5FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADE29BB-E222-4935-90A4-A4C6840F5FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADE29BB-E222-4935-90A4-A4C6840F5FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADE29BB-E222-4935-90A4-A4C6840F5FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADE29BB-E222-4935-90A4-A4C6840F5FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11ACAF2B-CBA4-43FA-9F3D-56C30FAC3DEF}
+	EndGlobalSection
+EndGlobal
